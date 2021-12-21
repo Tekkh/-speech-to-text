@@ -2,10 +2,18 @@ html {
   font-size: 10px;
 }
 body {
-  background: #4383e9;
+  background: #6B5B95;
   font-family: "helvetica neue";
   font-weight: 200;
   font-size: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: #fbfaff;
+}
+i {
+  color: yellow;
 }
 .words {
   max-width: 500px;
